@@ -2,5 +2,5 @@ name = "harry"
 print(len(name))
 print("harry")
 nm = "harry"
-print(name[-4:-2])
+print(name[-3:-1])
 
